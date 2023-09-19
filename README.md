@@ -13,7 +13,5 @@ In this project, I made a portfolio website using HTML, CSS, and Javascript. The
   <li>https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto</li>
   <li>https://www.w3schools.com/cssref/pr_text_text-indent.php</li>
   <li>https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html</li>
-  <li></li>
-  <li></li>
 
 </ul>
