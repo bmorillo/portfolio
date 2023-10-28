@@ -46,6 +46,16 @@ body {
     max-width: 50%; 
 }
 
+.mp-pics{
+  text-align: center;
+  margin: 0 auto; /* Center the div horizontally on the page */
+}
+.mp-pics img {
+  max-width: 100%; /* Make sure the image doesn't exceed its container's width */
+  height: auto; /* Maintain the aspect ratio */
+  width: 700px; /* Set a specific width for the image, adjust as needed */
+}
+
 .third{
     width: 640px;
     height: 230px;
